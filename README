@@ -1,0 +1,56 @@
+# UseFeedback AI Automation Agent
+
+An AI-powered user feedback automation agent built with n8n and Google Gemini.
+
+## 🚀 Features
+
+- Receives user feedback
+- Uses AI to analyze feedback
+- Classifies feedback
+- Generates an AI-powered response
+- Automates the feedback processing workflow
+
+## 🛠️ Tech Stack
+
+- n8n
+- Google Gemini
+- AI Agents
+- APIs
+- Workflow Automation
+
+## 🔄 Workflow
+
+User Feedback
+     ↓
+AI Agent
+     ↓
+Analyze Feedback
+     ↓
+Classify Feedback
+     ↓
+Generate Response
+     ↓
+Store / Process Result
+
+
+
+## 📂 Files
+
+- `usefeedback-ai-agent.json` — exported n8n workflow
+- `screenshots/` — workflow screenshots
+
+## ⚙️ Setup
+
+1. Install or access n8n
+2. Import `UserFeedBack.json`
+3. Configure your own credentials
+4. Add your Google Gemini API key
+5. Test the workflow
+
+## 🔐 Security
+
+API keys and credentials are not included in this repository.
+
+## 👩‍💻 Author
+
+Sidra Safdar
